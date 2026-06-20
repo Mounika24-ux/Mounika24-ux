@@ -16,6 +16,6 @@ Java Developer | Full Stack Developer<br>AI & Machine Learning Enthusiast<br>Bui
 ![](https://github-contributor-stats.vercel.app/api?username=Mounika24-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mounika24-ux&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Mounika24-ux&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
