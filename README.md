@@ -12,9 +12,20 @@ Java Developer | Full Stack Developer<br>AI & Machine Learning Enthusiast<br>Bui
 ![](https://streak-stats.demolab.com/?user=Mounika24-ux&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mounika24-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mounika24-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🚀 Featured Projects
 
+### ⚖️ TALQS – Legal Question Answering & Summarization
+- Built an AI-powered legal document summarization and question-answering system using T5 and BERT.
+- Processed 500+ legal documents using NLP techniques.
+- Tech Stack: Python, PyTorch, Transformers, FastAPI.
+
+### 🖼️ Image Super Resolution using SRCNN
+- Developed a CNN-based image enhancement system using SRCNN.
+- Trained on 1,000+ image samples using PyTorch.
+
+### 📚 Online Book Library Management System
+- Full-stack web application for library management.
+- Built using HTML, CSS, JavaScript, Node.js, and Express.js.
 ---
 ![](https://komarev.com/ghpvc/?username=Mounika24-ux&color=blue)
 
